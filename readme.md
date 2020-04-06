@@ -5,7 +5,6 @@ Researcher Information System is a practical Java application for data processin
 The simple analysis of data are implemented in the most efficient way using appropriate data structures and techniques. Besides a series of basic functionalities, it offers recommendation service by which a set of researchers with similar interest are picked using various optional algorithms.
 
 ---
-[TOC]
 
 ### Prerequisites
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
